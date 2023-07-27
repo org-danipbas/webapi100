@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pbawebapi100.props" />
+</Project>
